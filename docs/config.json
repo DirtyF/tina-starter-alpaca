@@ -2,6 +2,13 @@
   "config": [
     {
       "type": "link",
+      "slug": "new-page",
+      "title": "New Page",
+      "id": "j3dlkxnnn",
+      "children": []
+    },
+    {
+      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Getting Started",
